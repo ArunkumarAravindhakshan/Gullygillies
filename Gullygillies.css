@@ -1,0 +1,35 @@
+.div1{
+    style="display: inline-block;"
+}
+.div2{
+    style="display: inline-block;"
+    background-color: yellow;
+}
+body {
+   background-color: ;
+   color;
+}
+.header{
+    background-color:blue;
+}
+button{
+    border: none;
+        border-radius: 20px; 
+        padding: 10px 20px;
+        font-size: 16px;
+        background-color: aqua;         color: blue;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        height: 75px;
+    
+}
+p{
+    border: 2px solid red;
+    border-radius: 10px;
+    width: 30%;
+    float: left;
+}
+video{
+    
+}
